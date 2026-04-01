@@ -7,7 +7,7 @@ I don't trust data until I've argued with it.
 
 I'm a data science student who treats datasets like witness statements—biased, messy, and hiding the real story. My happy place is the **questioning loop**: rebuilding features three times, pressure-testing assumptions with statistical rigor, and iterating until the narrative clicks.
 
-**Featured Work:**
+**Featured Work:** <br>
 🔹 **[Quantium-Data-Analytics](https://github.com/Mridul-dhungana/Quantium-Data-Analytics.git))** – Retail trial analysis with control store matching, hypothesis testing, and commercial recommendations. Validated 12.3% sales uplift with 95% confidence intervals.  
 🔹 **[Insurance-Data-Analysis-and-ML](https://github.com/Mridul-dhungana/Insurance-DataANALYSIS-AND-ML.git)** – Risk profiling model for health insurance (R² = 0.946) identifying smoking status and BMI-age interactions as primary cost drivers. Delivered underwriting optimization strategy.
 
