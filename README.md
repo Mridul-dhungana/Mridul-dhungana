@@ -1,7 +1,18 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m Mridul Dhungana<br>I’m a data science student passionate about transforming raw, messy data into clear, actionable insights that people can actually use.<br>My core toolkit includes Python (Pandas, NumPy, scikit-learn), exploratory data analysis, feature engineering, model tuning, and data visualization. I enjoy working end-to-end—from cleaning and exploring data, to building models, to communicating results in a way that makes sense to non-technical audiences.<br>What sets me apart?<br>I genuinely enjoy being stuck in a questioning loop—challenging my assumptions, rethinking features, and iterating on visualizations until the story the data tells truly feels right.<br>🚀 On this GitHub, you’ll find:<br>📊 Notebooks showcasing EDA, feature engineering, and model evaluation<br>🧪 Experiments with regression, classification, and data visualization<br>📁 Reproducible projects with clear READMEs and well-documented results<br>I’m always open to feedback, discussions, and collaboration on data analysis and machine learning projects.<br>If you like thoughtful analysis and clean, explainable results—you’re in the right place.
+**Data Detective | Python, Experimental Design, Causal Thinking**
+
+I don't trust data until I've argued with it.
+
+I'm a data science student who treats datasets like witness statements—biased, messy, and hiding the real story. My happy place is the **questioning loop**: rebuilding features three times, pressure-testing assumptions with statistical rigor, and iterating until the narrative clicks.
+
+**Featured Work:**
+🔹 **[Quantium-Data-Analytics](https://github.com/Mridul-dhungana/Quantium-Data-Analytics.git))** – Retail trial analysis with control store matching, hypothesis testing, and commercial recommendations. Validated 12.3% sales uplift with 95% confidence intervals.  
+🔹 **[Insurance-Data-Analysis-and-ML](https://github.com/Mridul-dhungana/Insurance-DataANALYSIS-AND-ML.git)** – Risk profiling model for health insurance (R² = 0.946) identifying smoking status and BMI-age interactions as primary cost drivers. Delivered underwriting optimization strategy.
+
+
+If your data has secrets, I have questions.
 
 
 ## 🌐 Socials:
