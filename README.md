@@ -1,25 +1,78 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-**Data Detective | Python, Experimental Design, Causal Thinking**
+# Mridul Dhungana
 
-I don't trust data until I've argued with it.
+### Data science · Experimentation · Machine learning
 
-I'm a data science student who treats datasets like witness statements—biased, messy, and hiding the real story. My happy place is the **questioning loop**: rebuilding features three times, pressure-testing assumptions with statistical rigor, and iterating until the narrative clicks.
+**I don't trust data until I've argued with it.**
 
-**Featured Work:** <br>
-🔹 **[Quantium-Data-Analytics](https://github.com/Mridul-dhungana/Quantium-Data-Analytics.git)** – Retail trial analysis with control store matching, hypothesis testing, and commercial recommendations. Found a statistically significant uplift in 1 of 3 trial stores (95% CI) and recommended a longer trial before rollout.  
-🔹 **[Insurance-Data-Analysis-and-ML](https://github.com/Mridul-dhungana/Insurance-DataANALYSIS-AND-ML.git)** – Risk profiling model for health insurance (R² = 0.946) identifying smoking status and BMI-age interactions as primary cost drivers. Delivered underwriting optimization strategy.
+[LinkedIn](https://www.linkedin.com/in/dhgmridul7/) · [Tableau Portfolio](https://public.tableau.com/app/profile/mridul.dhungana) · [Email](mailto:mxd2485@mavs.uta.edu)
 
+</div>
 
-If your data has secrets, I have questions.
+---
 
+I'm a data science student who enjoys turning messy datasets into clear, defensible decisions. My work explores customer behavior, evaluates experiments, and builds predictive models—with careful attention to assumptions, data leakage, and what the results actually support.
 
-## 🌐 Connect:
+## Selected work
 
-• **LinkedIn:** [linkedin.com/in/dhgmridul7](https://www.linkedin.com/in/dhgmridul7/)  
-• **Email:** [mxd2485@mavs.uta.edu](mailto:mxd2485@mavs.uta.edu)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Retail analytics & experimentation</h3>
+<p><b>Did a new store layout actually improve sales?</b></p>
+<p>Matched trial and control stores, adjusted for pre-trial differences, and evaluated sales and customer uplift. Only one of three stores showed a trial-window lift; it did not persist after the trial. The analysis recommends against rollout.</p>
+<p><code>Python</code> <code>pandas</code> <code>SciPy</code> <code>Tableau</code></p>
+<p><a href="https://github.com/Mridul-dhungana/Quantium-Data-Analytics">Explore the analysis →</a> · <a href="https://public.tableau.com/app/profile/mridul.dhungana/viz/QuantiumDataAnalytics/CustomerAnalyticsDashboard">Live dashboard ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Customer churn prediction</h3>
+<p><b>When does a simpler model earn its place?</b></p>
+<p>Investigated potential leakage in a fictional telecom dataset of 7,043 customers. After excluding satisfaction score, Logistic Regression and XGBoost both reported about 0.91 test ROC-AUC. Selected the simpler baseline for comparable performance.</p>
+<p><code>scikit-learn</code> <code>XGBoost</code> <code>Classification</code></p>
+<p><a href="https://github.com/Mridul-dhungana/Telco-Customer-Churn-Analysis">Explore the models →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Insurance charge modeling</h3>
+<p><b>Which features help explain medical charges?</b></p>
+<p>Explored relationships among customer attributes and charges, engineered features, and tuned a Random Forest with GridSearchCV. The project reports a test-set R² of 0.946.</p>
+<p><code>Python</code> <code>Random Forest</code> <code>Regression</code></p>
+<p><a href="https://github.com/Mridul-dhungana/Insurance-DataANALYSIS-AND-ML">Explore the notebook →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Breadboard Odyssey</h3>
+<p><b>Bringing software, hardware, and AI together.</b></p>
+<p>A hackathon MVP for assembling breadboard circuits and debugging with live Arduino scope measurements and a Gemini chat coach. Built with a JavaScript interface and Python backend.</p>
+<p><code>JavaScript</code> <code>Python</code> <code>Arduino</code> <code>Gemini</code></p>
+<p><a href="https://github.com/Mridul-dhungana/Breadboard-Odyssey">Explore the build →</a></p>
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<sub>Project metrics are reported in the linked repositories and reflect their datasets and evaluation setups. Quantium is a virtual experience project.</sub>
 
+## My toolkit
+
+| Area | Tools & methods |
+| :--- | :--- |
+| Data analysis | Python, SQL, pandas, NumPy, exploratory analysis, feature engineering |
+| Statistics & modeling | SciPy, scikit-learn, XGBoost, hypothesis testing, regression, classification |
+| Visualization | Tableau, Matplotlib, Seaborn |
+| Building & collaboration | Git, GitHub, Jupyter, JavaScript, Python APIs |
+
+## How I approach a problem
+
+- **Question the data.** Check definitions, missing values, leakage, and whether a feature would be available when a prediction is needed.
+- **Start with a baseline.** Compare added complexity against measurable improvement.
+- **Make the conclusion useful.** Explain the finding, its limits, and the decision it supports.
+
+---
+
+<div align="center">
+
+**Have a dataset worth questioning or a project worth building?**  
+[Let's connect on LinkedIn](https://www.linkedin.com/in/dhgmridul7/) · [Get in touch](mailto:mxd2485@mavs.uta.edu)
+
+</div>
