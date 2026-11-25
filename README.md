@@ -18,13 +18,15 @@ I'm a data science student who enjoys turning messy datasets into clear, defensi
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <h3>01 / Retail analytics & experimentation</h3>
 <p><b>Did a new store layout actually improve sales?</b></p>
 <p>Matched trial and control stores, adjusted for pre-trial differences, and evaluated sales and customer uplift. Only one of three stores showed a trial-window lift; it did not persist after the trial. The analysis recommends against rollout.</p>
 <p><code>Python</code> <code>pandas</code> <code>SciPy</code> <code>Tableau</code></p>
 <p><a href="https://github.com/Mridul-dhungana/Quantium-Data-Analytics">Explore the analysis →</a> · <a href="https://public.tableau.com/app/profile/mridul.dhungana/viz/QuantiumDataAnalytics/CustomerAnalyticsDashboard">Live dashboard ↗</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>02 / Customer churn prediction</h3>
 <p><b>When does a simpler model earn its place?</b></p>
@@ -32,21 +34,12 @@ I'm a data science student who enjoys turning messy datasets into clear, defensi
 <p><code>scikit-learn</code> <code>XGBoost</code> <code>Classification</code></p>
 <p><a href="https://github.com/Mridul-dhungana/Telco-Customer-Churn-Analysis">Explore the models →</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>03 / Insurance charge modeling</h3>
 <p><b>Which features help explain medical charges?</b></p>
 <p>Explored relationships among customer attributes and charges, engineered features, and tuned a Random Forest with GridSearchCV. The project reports a test-set R² of 0.946.</p>
 <p><code>Python</code> <code>Random Forest</code> <code>Regression</code></p>
 <p><a href="https://github.com/Mridul-dhungana/Insurance-DataANALYSIS-AND-ML">Explore the notebook →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Breadboard Odyssey</h3>
-<p><b>Bringing software, hardware, and AI together.</b></p>
-<p>A hackathon MVP for assembling breadboard circuits and debugging with live Arduino scope measurements and a Gemini chat coach. Built with a JavaScript interface and Python backend.</p>
-<p><code>JavaScript</code> <code>Python</code> <code>Arduino</code> <code>Gemini</code></p>
-<p><a href="https://github.com/Mridul-dhungana/Breadboard-Odyssey">Explore the build →</a></p>
 </td>
 </tr>
 </table>
@@ -60,7 +53,7 @@ I'm a data science student who enjoys turning messy datasets into clear, defensi
 | Data analysis | Python, SQL, pandas, NumPy, exploratory analysis, feature engineering |
 | Statistics & modeling | SciPy, scikit-learn, XGBoost, hypothesis testing, regression, classification |
 | Visualization | Tableau, Matplotlib, Seaborn |
-| Building & collaboration | Git, GitHub, Jupyter, JavaScript, Python APIs |
+| Building & collaboration | Git, GitHub, Jupyter |
 
 ## How I approach a problem
 
